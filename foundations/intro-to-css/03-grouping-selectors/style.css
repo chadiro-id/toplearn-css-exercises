@@ -6,3 +6,9 @@
 .btn-yellow {
   background-color: #FF0;
 }
+
+.btn-black,
+.btn-yellow {
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+}
